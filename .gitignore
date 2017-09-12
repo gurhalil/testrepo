@@ -1,0 +1,5 @@
+# bir yorum
+*.a
+/TODO
+build/
+doc/*.txt
